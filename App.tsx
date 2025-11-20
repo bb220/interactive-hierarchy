@@ -16,7 +16,7 @@ const App: React.FC = () => {
       
       <header className="w-full max-w-6xl mx-auto pt-6 px-6 text-center flex flex-col items-center gap-2 animate-fade-in">
         <h1 className="text-2xl md:text-4xl font-bold tracking-tight text-slate-900">
-          Graham's Hierarchy of Disagreement
+          Hierarchy of Disagreement
         </h1>
         <a 
             href="http://www.paulgraham.com/disagree.html" 
